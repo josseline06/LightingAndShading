@@ -103,12 +103,14 @@ LightingAndShading/src
 ├── Icosphere.hpp 			# → It is a class that represent a graphic version of a pointed light source   
 ├── Light.hpp 				# → Light sources (ambient light no included) class
 ├── Main.cpp 				# → Main source file, it include set up of all environment and all GUI implementation
-├── Material.hpp 				# → Model material class
+├── Material.hpp 			# → Model material class
 ├── Object.hpp 				# → Model class, include vertices, materials, etc
-└── Program.hpp 				# → Shader loading and compilation class
+└── Program.hpp 			# → Shader loading and compilation class
 ```
 
 ## Graphic User Interface (GUI)
+
+![alt text](renderings/spotlight-and-help-bar.png?raw=true "Light Sources Menu and Help Bar")
 
 When the app starts, it shows your models rendered and lighting and shading initial setup specifies at `init/`. Here a brief explanation about how to use it:
 
