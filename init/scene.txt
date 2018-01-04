@@ -1,0 +1,104 @@
+E 0.0 1.95 6.25
+M
+Floor
+models/floor.obj
+models/floor.mtl 
+7.25 1.0 7.25
+0.0 0.0 0.0 1.0
+0.0 0.0 0.0
+0 2
+M
+Slingshot
+models/slingshot.obj
+models/slingshot.mtl
+2.0 2.5 2.5
+0.0 1.0 0.0 -0.27
+0.0 1.25 -2.5
+0 1
+M
+The Eggs
+models/eggs.obj
+models/eggs.mtl
+0.9 0.9 0.9
+0.0 0.0 0.0 1.0
+0.0 0.51 1.0
+0 2
+M
+Terrence
+models/terrence.obj
+models/terrence.mtl
+2.0 2.0 2.0
+0.0 -0.63 0.0 0.78
+-1.6 0.81 -1.0
+1 0
+M
+Red
+models/red.obj
+models/red.mtl
+1.0 1.0 1.0
+0.03 -0.67 0.02 0.74
+0.06 2.25 -3.46
+1 1
+M
+Bomb
+models/bomb.obj
+models/bomb.mtl
+1.0 1.0 1.0
+0.0 -0.82 0.0 0.58
+-0.5 0.52 -0.21
+1 2
+M
+Matilda
+models/matilda.obj
+models/matilda.mtl
+1.0 1.0 1.0
+0.0 0.99 0 -0.2
+0.68 0.74 -1.0
+2 0
+M
+Blue Jay
+models/blue_jay.obj
+models/blue_jay.mtl
+0.4 0.4 0.4
+0.09 -0.98 -0.04 0.19
+0.42 3.0 0.63
+2 1
+M
+Pig
+models/pig.obj
+models/pig.mtl
+0.6 0.6 0.6
+0.0 0.49 0.0 0.87
+-1.9 0.32 1.9
+2 2
+M
+Soldier Pig
+models/soldier_pig.obj
+models/soldier_pig.mtl
+0.8 0.8 0.8
+0.0 0.68 0.0 0.73
+-1.05 0.44 2.63
+0 0
+M
+King Pig
+models/king_pig.obj
+models/king_pig.mtl
+1.40 1.40 1.40
+0.0 1.0 0.0 -0.05
+0.62 0.8 2.5
+0 1
+M
+Foreman Pig
+models/foreman_pig.obj
+models/foreman_pig.mtl
+0.8 0.8 0.8
+0.0 -0.83 0.0 0.54
+2.0 0.37 2.0
+0 2
+A 0.2 0.2 0.2
+L
+0.5 0.5 0.5
+0.7 0.7 0.7
+1
+1.0 3.0 1.0
+1.0 0.01 0.001

@@ -1,0 +1,7 @@
+.vs/
+Debug/
+Release/
+*.vcxproj.user
+bin/*.iobj
+bin/*.ipdb
+bin/*.pdb
